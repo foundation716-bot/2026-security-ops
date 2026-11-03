@@ -1,0 +1,9 @@
+streamlit
+pandas
+psycopg2-binary
+python-dotenv
+langchain-openai
+langgraph
+openai
+pydantic
+ipykernel
